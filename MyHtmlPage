@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+    <title>myhtmlcsspage</title>
+    </html>
+    <body>
+        <header>MY FIRST HTML AND CSS PAGE</header>
+        <p>This web page is the first from my <b>HTML and CSS</b> induction into the <i>front-end</i>software development. <u>Thi is te road to being a full stack developer</p>
+            <P>In the next <b>5 years</b> if God keeps us alive i should, be able to have.</P>
+            
+    </body>
+</html>
