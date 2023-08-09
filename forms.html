@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>firsthtmlform</title>
+</head>
+
+<body>
+    <header style="font:bold">My First Html form</header>
+    <br>
+    <div>
+        <form action="process.php" method="POST"> 
+        <label>First Name</label>
+          <input type="text" name="FirstName">
+        </div> 
+        <br>
+          <div>
+            <label>SurName</label>
+          <input type="text" name="SurName">
+        </div>
+        <br>
+        <div>
+            <label>email</label>
+        <input type="email" name="email">
+        </div>
+    <br>
+    <div>
+        <label>Age</label>
+        <input type="number" name="Age">
+    </div>
+    <br>
+    <div>
+    <label>message</label>
+        <textarea name="message"></textarea>
+        </div>
+        <br>
+        <div>
+        <label>PhoneNumber</label>
+        <input type="number" name="PhoneNumber">
+       </div>
+       <br> 
+</form>
+
+<!--New form to collect information-->
+<form>
+    <div>
+        <label>gender</label>
+        <select name="gender">
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+            <option value="Other">Other</option>
+    </div>
+    <br>
+    <div>
+        <input type="radio" value="Male" name="Male" id="M">
+        <label for="M"><Male</label>
+        <input type="radio" value="Female" name="Female" id="F">
+        <label for="F"><female</label>
+        <input type="radio" value="Other" name="Other" id="O">
+        <label for="O"><Other</label>
+    </div>
+    <br>
+    <div>
+        <input type="submit" name="submit" value="submit">
+    </div>
+</form>
+    
+</body>
+</html> 
