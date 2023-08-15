@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: blueviolet;
+}
+p {
+    font-size: 16;
+}
+ul {
+    color: brown;
+    font-weight: 400;
+    margin: 20px;
+    padding: 10;
+    
+    
+}
+.h1 { background-color: bisque;
+    border: 1px solid;
+    
+
+
+}
+ul: hover {
+    color:black;
+    
+}
